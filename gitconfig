@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mathieu.villez@gmail.com
+	name = Mathieu Villez
